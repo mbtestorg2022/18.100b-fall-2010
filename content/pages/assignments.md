@@ -13,17 +13,126 @@ Collaboration on problem sets is highly encouraged, but
 
 Solutions to problems are not available to OCW users. However, sample problems with solutions from a previous term are available in the [study materials]({{< baseurl >}}/pages/study-materials) section.
 
-| SES # | PROBLEMS |
-| --- | --- |
-| 1 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset1)) |
-| 2 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset2)) |
-| 3 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset3)) |
-| 4 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset4)) |
-| 5 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset5)) |
-| 6 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset6)) |
-| 7 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset7)) |
-| 8 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset8)) |
-| 9 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset9)) |
-| 10 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset10)) |
-| 11 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset11)) |
-| 12 | ([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset12))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_100bf10_pset12))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
