@@ -32,7 +32,7 @@ Practice quiz 1 ([PDF]({{< baseurl >}}/resources/mit18_100bf10_practice1))
 
 Practice quiz 1 solutions
 
-Handwritten (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_100bf10_practice1sol))
+Handwritten ([PDF]({{< baseurl >}}/resources/mit18_100bf10_practice1sol))
 
 Typed ([PDF]({{< baseurl >}}/resources/mit18_100bf10_prac1soltyp))
 
@@ -52,7 +52,7 @@ Practice quiz 2 ([PDF]({{< baseurl >}}/resources/mit18_100bf10_practice2))
 
 Practice quiz 2 solutions
 
-Handwritten (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_100bf10_practice2sol))
+Handwritten ([PDF]({{< baseurl >}}/resources/mit18_100bf10_practice2sol))
 
 Typed ([PDF]({{< baseurl >}}/resources/mit18_100bf10_prac2soltyp))
 
@@ -96,7 +96,7 @@ Practice quiz 4 ([PDF]({{< baseurl >}}/resources/mit18_100bf10_prac4))
 
 Practice quiz 4 solutions
 
-Handwritten (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_100bf10_practice4sol))
+Handwritten ([PDF]({{< baseurl >}}/resources/mit18_100bf10_practice4sol))
 
 Typed ([PDF]({{< baseurl >}}/resources/mit18_100bf10_prac4soltyp))
 
