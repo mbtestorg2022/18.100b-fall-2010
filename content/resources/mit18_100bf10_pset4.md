@@ -4,6 +4,7 @@ description: This resource contains 5 problems about connected sets, convergence
   Rudin.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-100b-analysis-i-fall-2010/717bf4bf8377e0bf712c3e288d4f7ceb_MIT18_100BF10_pset4.pdf
 file_type: application/pdf
+parent_uid: 6ac57f27-80f0-7137-088d-250d37c6a15a
 resourcetype: Document
 title: MIT18_100BF10_pset4.pdf
 uid: 717bf4bf-8377-e0bf-712c-3e288d4f7ceb

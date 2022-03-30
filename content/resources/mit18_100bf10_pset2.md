@@ -4,6 +4,7 @@ description: This resource contains problems about countability, Euclidean space
   Rudin and metric spaces.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-100b-analysis-i-fall-2010/a3f194818297a0be395cc4603b37a05c_MIT18_100BF10_pset2.pdf
 file_type: application/pdf
+parent_uid: 6ac57f27-80f0-7137-088d-250d37c6a15a
 resourcetype: Document
 title: MIT18_100BF10_pset2.pdf
 uid: a3f19481-8297-a0be-395c-c4603b37a05c

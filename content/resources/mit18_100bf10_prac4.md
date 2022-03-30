@@ -4,6 +4,7 @@ description: This resource contains information about Riemann integrable, R is c
   negative and fn converges uniformly.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-100b-analysis-i-fall-2010/8831b252fbda527ecb789bd5ff6dd5f8_MIT18_100BF10_prac4.pdf
 file_type: application/pdf
+parent_uid: ae754d0f-d11b-9275-5022-41efc9574387
 resourcetype: Document
 title: MIT18_100BF10_prac4.pdf
 uid: 8831b252-fbda-527e-cb78-9bd5ff6dd5f8

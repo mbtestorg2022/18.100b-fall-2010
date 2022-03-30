@@ -4,6 +4,7 @@ description: 'This resource contains information about optional material: Weiers
   function.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-100b-analysis-i-fall-2010/432dfabbc5dc0151ffc6aa684e539a90_MIT18_100BF10_WeierstFunc.pdf
 file_type: application/pdf
+parent_uid: e5dcde0c-4bb2-17c6-c587-fd907be88080
 resourcetype: Document
 title: MIT18_100BF10_WeierstFunc.pdf
 uid: 432dfabb-c5dc-0151-ffc6-aa684e539a90
